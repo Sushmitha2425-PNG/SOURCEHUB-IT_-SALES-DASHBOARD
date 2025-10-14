@@ -1,4 +1,4 @@
-# 🏪 US Store Interactive Sales Dashboard  
+# 🏪 US Store Interactive Sales Dashboard  PROJECT A TASK 1
 
 ### 📘 Overview  
 This Power BI dashboard provides an **interactive overview of sales performance** for a US-based retail store.  
